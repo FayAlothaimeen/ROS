@@ -10,12 +10,14 @@ installation, and then download it and make sure that suitable for your computer
 2-second, you need to download Ubuntu just go to Google and download it.
 ![IMG 2](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG2.jpg)
 3- after  that, open the terminal to set up the Ubuntu systeam and write :
-
+```
 sudo apt update
+```
 
 after that write :
-
+```
 sudo apt upgrade
+```
 
 ![IMG 3](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG3.jpg)
 
@@ -23,7 +25,10 @@ sudo apt upgrade
 ![IMG 4](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG4.jpg)
 5-similarity for setup your Keys
 ![IMG 5](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG5.jpg)
-6- then write sudo apt - get update
+6- then write
+```
+sudo apt - get update
+```
 
 7-after that you have 3 option to downlod ROS :
 
@@ -39,39 +44,66 @@ just write this code : source /opt/ros/noetic/setup.bash
 
 
 
-
-
 <div dir="rtl" markdown="1">
 
 
+<br />
 خطوات تثبيت نظام ROS
+
 ١- أولاً تحتاج إلى تنزيل “Virtual Box” اذهب إلى محرك البحث الخاص بك وابحث عن “Virtual Box” لتنزيله وحمله وتاكد بأنه يتطابق مع الكمبيوتر الخاص بك .
+
+<br />
+
 ٢- ، تحتاج إلى تنزيل Ubuntu فقط اذهب إلى Google وقم بتنزيله.
 
-3- بعد ذلك ، افتح الوحدة الطرفية “ terminal  ”لإعداد نظام Ubuntu وقم بكتابة :
+<br />
+
+٣- بعد ذلك ، افتح الوحدة الطرفية “ terminal  ”لإعداد نظام Ubuntu وقم بكتابة :
+```
 sudo apt update
+```
+
 
 بعد ذلك  :
-
+```
 sudo apt upgrade
+```
 
-4-ثالثًا ، لتنزيل ROS ، انتقل إلى محرك البحث  وابحث عن تنزيل ROS وانسخ رمز الخط
-“Code”  لإعداد قائمة sources.list الخاصة بك .
 
-5- كرر الخطوة السابقة في “setup your Keys ”
+<br />
 
-6- ثم اكتب :
+٤-ثالثًا ، لتنزيل ROS ، انتقل إلى محرك البحث  وابحث عن تنزيل ROS وانسخ رمز الخط
+“Code”  لإعداد قائمة sources.list الخاصة بك.
+
+<br />
+
+
+٥- كرر الخطوة السابقة في “setup your Keys”
+
+<br />
+
+
+
+٦- ثم اكتب :
+```
  sudo apt - get update
+```
 
-7-بعد ذلك لديك 3 خيارات لتنزيل ROS:
+<br />
+
+٧-بعد ذلك لديك 3 خيارات لتنزيل ROS:
 
 1-سطح المكتب - تركيب كامل: كل شيء في سطح المكتب بالإضافة إلى محاكيات ثنائية / ثلاثية الأبعاد وحزم تصور ثنائية / ثلاثية الأبعاد
 2-تثبيت سطح المكتب: كل شيء في ROS-Base بالإضافة إلى أدوات مثل rqt و rviz
 3-ROS-Base: مكتبات ROS للتغليف والبناء والتواصل. لا توجد أدوات واجهة المستخدم الرسومية.
-استخدم  الخيار الانسب لك .
+استخدم  الخيار الانسب لك.
 
-8- آخر شيء هو إعداد البيئة ، يجب أن تحصل على هذا النص البرمجي في كل محطة باش تستخدم ROS فيها.
+<br />
+
+
+٨- آخر شيء هو إعداد البيئة ، يجب أن تحصل على هذا النص البرمجي في كل محطة باش تستخدم ROS فيها.
 فقط اكتب هذا الكود: source /opt/ros/noetic/setup.bas
 
+<br />
 
 </div>
