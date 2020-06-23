@@ -5,7 +5,7 @@ Steps to install ROS:
 1- First, you need to install Virtual Box, go to Google search for  Virtual Box
 installation, and then download it and make sure that suitable for your computer.
 
-![IMG 1](Images/IMG 1.jpg)
+![IMG 1](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG%201.jpg)
 
 2-second, you need to download Ubuntu just go to Google and download it.
 ![IMG 2](Images/IMG 2.jpg)
