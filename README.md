@@ -35,3 +35,43 @@ copy anyone option that suitable for you
 8- the last on is Environment setup, You must source this script in every bash terminal you use ROS in.
 just write this code : source /opt/ros/noetic/setup.bash
 ![IMG 7](https://github.com/FayAlothaimeen/ROS/blob/master/Images/IMG7.jpg)
+
+
+
+
+
+
+<div dir="rtl" markdown="1">
+
+
+خطوات تثبيت نظام ROS
+١- أولاً تحتاج إلى تنزيل “Virtual Box” اذهب إلى محرك البحث الخاص بك وابحث عن “Virtual Box” لتنزيله وحمله وتاكد بأنه يتطابق مع الكمبيوتر الخاص بك .
+٢- ، تحتاج إلى تنزيل Ubuntu فقط اذهب إلى Google وقم بتنزيله.
+
+3- بعد ذلك ، افتح الوحدة الطرفية “ terminal  ”لإعداد نظام Ubuntu وقم بكتابة :
+sudo apt update
+
+بعد ذلك  :
+
+sudo apt upgrade
+
+4-ثالثًا ، لتنزيل ROS ، انتقل إلى محرك البحث  وابحث عن تنزيل ROS وانسخ رمز الخط
+“Code”  لإعداد قائمة sources.list الخاصة بك .
+
+5- كرر الخطوة السابقة في “setup your Keys ”
+
+6- ثم اكتب :
+ sudo apt - get update
+
+7-بعد ذلك لديك 3 خيارات لتنزيل ROS:
+
+1-سطح المكتب - تركيب كامل: كل شيء في سطح المكتب بالإضافة إلى محاكيات ثنائية / ثلاثية الأبعاد وحزم تصور ثنائية / ثلاثية الأبعاد
+2-تثبيت سطح المكتب: كل شيء في ROS-Base بالإضافة إلى أدوات مثل rqt و rviz
+3-ROS-Base: مكتبات ROS للتغليف والبناء والتواصل. لا توجد أدوات واجهة المستخدم الرسومية.
+استخدم  الخيار الانسب لك .
+
+8- آخر شيء هو إعداد البيئة ، يجب أن تحصل على هذا النص البرمجي في كل محطة باش تستخدم ROS فيها.
+فقط اكتب هذا الكود: source /opt/ros/noetic/setup.bas
+
+
+</div>
